@@ -1,140 +1,140 @@
-Title, CpGs (methylation), Fusions, Mutations, SNV, WES, WGS, clinical, genotype, mRNA (gene expression), miRNA, other, proteome, sc-ATAC, sc-transcriptomics,CNV,ChIP-seq,Copy number alterations,CpGs (methylation),SNPs,SNV,WES,WGS,clinical,genotype,mRNA (gene expression),miRNA,ncRNA,other,proteome,sc-ATAC,sc-transcriptomics
-Visualizing population structure with variational autoencoders,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
-GenNet framework: interpretable deep learning for predicting phenotypes from genetic data,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
-Biologically informed deep neural network for prostate cancer discovery,1,1,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-AIME: Autoencoder-based integrative multi-omics data embedding that allows for confounder adjustments,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
-Biologically informed deep learning to infergene program activity in single cells,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
-"MethylSPWNet and MethylCapsNet: Biologically Motivated Organization of DNAm Neural Networks, Inspired by Capsule Networks",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-PASNet: pathway-associated sparse deep neural network for prognosis prediction from high-throughput data,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
-Attention-based GCN integrates Multi-omics Data for Breast Cancer Subtype Classification and Patient-specific Gene Marker Identification,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-A snapshot neural ensemble method for cancer-type prediction based on copy number variations,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-PathME: pathway based multi-modal sparse autoencoders for clustering of patient-level multi-omics data,1,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-BasisVAE: Translation-invariant feature-level clustering with Variational Autoencoders,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
-Sparsely Connected Autoencoders: A Multi-Purpose Tool for Single Cell omics Analysis,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
-Interpretable deep generative models for genomics,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
-A mixture-of-experts deep generative model for integrated analysis of single-cell multiomics data,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
-Identification of Tissue of Origin and Guided Therapeutic Applications in Cancers of Unknown Primary Using Deep Learning and RNA Sequencing (TransCUPtomics),0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
-Explainable autoencoder-based representation learning for gene expression data,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+Title,CNV,ChIP-seq,Copy number alterations,CpGs (methylation),Fusions,Mutations,SNPs,SNV,WES,WGS,clinical,genotype,mRNA (gene expression),miRNA,ncRNA,other,proteome,sc-ATAC,sc-transcriptomics
+Visualizing population structure with variational autoencoders,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+GenNet framework: interpretable deep learning for predicting phenotypes from genetic data,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+Biologically informed deep neural network for prostate cancer discovery,1,0,0,1,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0
+AIME: Autoencoder-based integrative multi-omics data embedding that allows for confounder adjustments,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0
+Biologically informed deep learning to infergene program activity in single cells,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+"MethylSPWNet and MethylCapsNet: Biologically Motivated Organization of DNAm Neural Networks, Inspired by Capsule Networks",0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PASNet: pathway-associated sparse deep neural network for prognosis prediction from high-throughput data,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+Attention-based GCN integrates Multi-omics Data for Breast Cancer Subtype Classification and Patient-specific Gene Marker Identification,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+A snapshot neural ensemble method for cancer-type prediction based on copy number variations,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PathME: pathway based multi-modal sparse autoencoders for clustering of patient-level multi-omics data,1,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0
+BasisVAE: Translation-invariant feature-level clustering with Variational Autoencoders,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Sparsely Connected Autoencoders: A Multi-Purpose Tool for Single Cell omics Analysis,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Interpretable deep generative models for genomics,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+A mixture-of-experts deep generative model for integrated analysis of single-cell multiomics data,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+Identification of Tissue of Origin and Guided Therapeutic Applications in Cancers of Unknown Primary Using Deep Learning and RNA Sequencing (TransCUPtomics),0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+Explainable autoencoder-based representation learning for gene expression data,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
 "A neuro-fuzzy approach for functional genomics data interpretation
-and analysis",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
-Comprehensive functional genomic resource and integrative model for the human brain,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
-MetastaSite: Predicting metastasis to different sites using deep learning with gene expression data,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
-Interpretable modeling of genotype–phenotype landscapes withstate-of-the-art predictive power,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
-Deriving meaningful rules from gene expression data for classification,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
-PathCNN: interpretable convolutional neural networks for survival prediction and pathway analysis applied to glioblastoma,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+and analysis",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+Comprehensive functional genomic resource and integrative model for the human brain,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0
+MetastaSite: Predicting metastasis to different sites using deep learning with gene expression data,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+Interpretable modeling of genotype–phenotype landscapes withstate-of-the-art predictive power,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Deriving meaningful rules from gene expression data for classification,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+PathCNN: interpretable convolutional neural networks for survival prediction and pathway analysis applied to glioblastoma,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
 "Comparison of Approaches for Machine-Learning Optimization
 of Neural Networks for Detecting Gene-Gene Interactions
-in Genetic Epidemiology",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
-Cancer Subtyping by Improved Transcriptomic Features Using Vector Quantized Variational Autoencoder,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
-Cancer subtype classification and modeling by pathway attention and propagation,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
-A deep learning framework for characterization of genotype data,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
-SAERMA: Stacked Autoencoder Rule Mining Algorithm for the Interpretation of Epistatic Interactions in GWAS for Extreme Obesity,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+in Genetic Epidemiology",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Cancer Subtyping by Improved Transcriptomic Features Using Vector Quantized Variational Autoencoder,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0
+Cancer subtype classification and modeling by pathway attention and propagation,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+A deep learning framework for characterization of genotype data,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+SAERMA: Stacked Autoencoder Rule Mining Algorithm for the Interpretation of Epistatic Interactions in GWAS for Extreme Obesity,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
 "ParsVNN: parsimony visible neural networks for uncovering cancer-specific and drug-sensitive genes
-and pathways",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
-Predicting Drug Response and Synergy Using a Deep Learning Model of Human Cancer Cells,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
-Interpretable Autoencoders Trained on Single Cell Sequencing Data Can Transfer Directly to Data from Unseen Tissues,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
-MoGCN: A Multi-Omics Integration Method Based on Graph Convolutional Network for Cancer Subtype Analysis,0,0,0,0,0,0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Using deep learning to model the hierarchical structure and function of a cell,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+and pathways",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Predicting Drug Response and Synergy Using a Deep Learning Model of Human Cancer Cells,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Interpretable Autoencoders Trained on Single Cell Sequencing Data Can Transfer Directly to Data from Unseen Tissues,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+MoGCN: A Multi-Omics Integration Method Based on Graph Convolutional Network for Cancer Subtype Analysis,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0
+Using deep learning to model the hierarchical structure and function of a cell,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
 "LINA: A Linearizing Neural Network Architecture for Accurate
-First-Order and Second-Order Interpretations",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
-GraphGONet: a self-explaining neural network encapsulating the Gene Ontology graph for phenotype prediction on gene expression,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
-XOmiVAE: an interpretable deep learning model for cancer classification using high-dimensional omics data,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
-VEGA is an interpretable generative model for inferring biological network activity in single-cell transcriptomics,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
-Discovering epistatic feature interactions from neural network models of regulatory DNA sequences,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
-Explainable Transformer-Based Neural Network for the Prediction of Survival Outcomes in Non-Small Cell Lung Cancer (NSCLC),0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
-An interpretable deep-learning architecture of capsule networks for identifying cell-type gene expression programs from single-cell RNA-sequencing data,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
-Development of Biologically Interpretable Multimodal Deep Learning Model for Cancer Prognosis Prediction,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-DeepTRIAGE: interpretable and individualised biomarker scores using attention mechanism for the classification of breast cancer sub-types,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
-Verifying explainability of a deep learning tissue classifer trained on RNA‑seq data,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
-An embedded gene selection method using knockoffs optimizing neural network,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
-Explainable deep transfer learning model for disease risk prediction using high-dimensional genomic data,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
-GNN-SubNet: disease subnetwork detection with explainable graph neural networks,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-Identification of critical genes in microarray experiments by a Neuro-Fuzzy approach,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
-Explaining decisions of graph convolutional neural networks: patient-specific molecular subnetworks responsible for metastasis prediction in breast cancer,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
-Investigating the relevance of major signaling pathways in cancer survival using a biologically meaningful deep learning model,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Explainable Deep Learning for Augmentation of Small RNA Expression Profiles,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
-Integrating pathway knowledge with deep neural networks to reduce the dimensionality in single-cell RNA-seq data,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
-Application of Artificial Neural Network for Prediction of Risk of Multiple Sclerosis Based on Single Nucleotide Polymorphism Genotypes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
-Interpretable deep neural network for cancer survival analysis by integrating genomic and clinical data,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
-Pathway importance by graph convolutional network and Shapley additive explanations in gene expression phenotype of diffuse large B-cell lymphoma,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
-A biological network-based regularized artificial neural network model for robust phenotype prediction from gene expression data,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
-Varmole: a biologically drop-connect deep neural network model for prioritizing disease risk variants and genes,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
-Incorporating Biological Knowledge with Factor Graph Neural Network for Interpretable Deep Learning,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
-Deep neural network prediction of genome-wide transcriptome signatures – beyond the Black-box,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
-A Comparison of Analytical Methods for Genetic Association Studies,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
-Modeling transcriptomic age using knowledge-primed artificial neural networks,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
-A graph-embedded deep feedforward network for disease outcome classification and feature selection using gene expression data,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
-Learning interpretable cellular and gene signature embeddings from single-cell transcriptomic data,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
-deepManReg: a deep manifold-regularized learning model for improving phenotype prediction from multi-modal data,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
-DeepOmix: A scalable and interpretable multi-omics deep learning framework and application in cancer survival analysis,1,0,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Path-ATT-CNN: A Novel Deep Neural Network Method for Key Pathway Identification of Lung Cancer,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
-Deep learning based on multi-omics integration identifies potential therapeutic targets in breast cancer,1,0,0,1,0,0,0,0,1,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-An interpretable low-complexity machine learning framework for robust exome-based in - silico diagnosis of Crohn’s disease patients,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+First-Order and Second-Order Interpretations",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+GraphGONet: a self-explaining neural network encapsulating the Gene Ontology graph for phenotype prediction on gene expression,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+XOmiVAE: an interpretable deep learning model for cancer classification using high-dimensional omics data,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+VEGA is an interpretable generative model for inferring biological network activity in single-cell transcriptomics,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Discovering epistatic feature interactions from neural network models of regulatory DNA sequences,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Explainable Transformer-Based Neural Network for the Prediction of Survival Outcomes in Non-Small Cell Lung Cancer (NSCLC),0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0
+An interpretable deep-learning architecture of capsule networks for identifying cell-type gene expression programs from single-cell RNA-sequencing data,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Development of Biologically Interpretable Multimodal Deep Learning Model for Cancer Prognosis Prediction,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+DeepTRIAGE: interpretable and individualised biomarker scores using attention mechanism for the classification of breast cancer sub-types,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+Verifying explainability of a deep learning tissue classifer trained on RNA‑seq data,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+An embedded gene selection method using knockoffs optimizing neural network,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+Explainable deep transfer learning model for disease risk prediction using high-dimensional genomic data,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+GNN-SubNet: disease subnetwork detection with explainable graph neural networks,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+Identification of critical genes in microarray experiments by a Neuro-Fuzzy approach,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+Explaining decisions of graph convolutional neural networks: patient-specific molecular subnetworks responsible for metastasis prediction in breast cancer,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+Investigating the relevance of major signaling pathways in cancer survival using a biologically meaningful deep learning model,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+Explainable Deep Learning for Augmentation of Small RNA Expression Profiles,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+Integrating pathway knowledge with deep neural networks to reduce the dimensionality in single-cell RNA-seq data,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Application of Artificial Neural Network for Prediction of Risk of Multiple Sclerosis Based on Single Nucleotide Polymorphism Genotypes,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Interpretable deep neural network for cancer survival analysis by integrating genomic and clinical data,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0
+Pathway importance by graph convolutional network and Shapley additive explanations in gene expression phenotype of diffuse large B-cell lymphoma,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+A biological network-based regularized artificial neural network model for robust phenotype prediction from gene expression data,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+Varmole: a biologically drop-connect deep neural network model for prioritizing disease risk variants and genes,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0
+Incorporating Biological Knowledge with Factor Graph Neural Network for Interpretable Deep Learning,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+Deep neural network prediction of genome-wide transcriptome signatures – beyond the Black-box,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+A Comparison of Analytical Methods for Genetic Association Studies,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+Modeling transcriptomic age using knowledge-primed artificial neural networks,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+A graph-embedded deep feedforward network for disease outcome classification and feature selection using gene expression data,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+Learning interpretable cellular and gene signature embeddings from single-cell transcriptomic data,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+deepManReg: a deep manifold-regularized learning model for improving phenotype prediction from multi-modal data,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1
+DeepOmix: A scalable and interpretable multi-omics deep learning framework and application in cancer survival analysis,1,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0
+Path-ATT-CNN: A Novel Deep Neural Network Method for Key Pathway Identification of Lung Cancer,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+Deep learning based on multi-omics integration identifies potential therapeutic targets in breast cancer,1,0,0,1,0,0,0,1,0,0,0,0,1,1,0,0,1,0,0
+An interpretable low-complexity machine learning framework for robust exome-based in - silico diagnosis of Crohn’s disease patients,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
 "Classification and Functional Analysis between Cancer and
 Normal Tissues Using Explainable Pathway Deep Learning
-through RNA-Sequencing Gene Expression",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
-DeepPerVar: a multi-modal deep learning framework for functional interpretation of genetic variants in personal genome,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Knowledge-primed neural networks enable biologically interpretable deep learning on single-cell sequencing data,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
-A Deep Neural Network for Gastric Cancer Prognosis Prediction Based on Biological Information Pathways,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Analysis of gene expression data using self-organizing maps,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
-2D and 3D Neural-Network Based Visualization of High-Dimensional Biomedical Data,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
-REM: An Integrative Rule Extraction Methodology for Explainable Data Analysis in Healthcare,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
-Deep learning explains the biology of branched glycans from single-cell sequencing data,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
-Multi-scale inference of genetic trait architecture using biologically annotated neural networks,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+through RNA-Sequencing Gene Expression",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+DeepPerVar: a multi-modal deep learning framework for functional interpretation of genetic variants in personal genome,0,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Knowledge-primed neural networks enable biologically interpretable deep learning on single-cell sequencing data,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1
+A Deep Neural Network for Gastric Cancer Prognosis Prediction Based on Biological Information Pathways,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Analysis of gene expression data using self-organizing maps,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+2D and 3D Neural-Network Based Visualization of High-Dimensional Biomedical Data,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0
+REM: An Integrative Rule Extraction Methodology for Explainable Data Analysis in Healthcare,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0
+Deep learning explains the biology of branched glycans from single-cell sequencing data,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1
+Multi-scale inference of genetic trait architecture using biologically annotated neural networks,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
 "Deep neural networks with controlled variable selection for the identification of putative causal
-genetic variants",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+genetic variants",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
 "Application of Single-Nucleotide Polymorphisms in the Diagnosis
 of Autism Spectrum Disorders: A Preliminary Study with Artificial
-Neural Networks",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
-Genome-wide association study-based deep learning for survival prediction,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
-Fully-Connected Neural Networks with Reduced Parameterization for Predicting Histological Types of Lung Cancer from Somatic Mutations,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
-OncoNetExplainer: Explainable Predictions of Cancer Types Based on Gene Expression Data,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
-Prediction and interpretation of cancer survival using graph convolution neural networks,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
-Using Feature Selection and Ensemble Algorithms for Sophisticated Pancreatic Cancer Diagnosis,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
-Identifying common transcriptome signatures of cancer by interpreting deep learning models,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
-Pathomic Fusion: An Integrated Framework for Fusing Histopathology and Genomic Features for Cancer Diagnosis and Prognosis,0,0,0,1,0,0,0,0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Principled feature attribution for unsupervised gene expression analysis,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
-DeepMAPS: Single-cell biological network inference using heterogeneous graph transformer,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
-Visualizing complex feature interactions and feature sharing in genomic deep neural networks,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
-DeepCOMBI: explainable artificial intelligence for the analysis and discovery in genome-wide association studies,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
-ECMarker: interpretable machine learning model identifies gene expression biomarkers predicting clinical outcomes and reveals molecular mechanisms of human disease in early stages,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
-Differentially expressed genes prediction by multiple self-attention on epigenetics data,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Multi-Omic Graph Transformers for Cancer Classification and Interpretation,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
-Integration of multiomics data with graph convolutional networks to identify new cancer genes and their associated molecular mechanisms,1,0,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Network-guided supervised learning on gene expression using a graph convolutional neural network,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
-Multi-level attention graph neural network based on co-expression gene modules for disease diagnosis and prognosis,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
-Transformer for Gene Expression Modeling (T-GEM): An Interpretable Deep Learning Model for Gene Expression-Based Phenotype Predictions,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
-Single-cell gene regulatory network prediction by explainable AI,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
-Risk stratification and pathway analysis based on graph neural network and interpretable algorithm,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
-An intrinsically interpretable neural network architecture for sequence to function learning,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
-A pan-tissue DNA-methylation epigenetic clock based on deep learning,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
-An explainable AI-driven biomarker discovery framework for Non-Small Cell Lung Cancer classification,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
-An Explainable Deep Network Framework with Case-based Reasoning Strategies for Survival Analysis in Cancer,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Neural Networks",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Genome-wide association study-based deep learning for survival prediction,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Fully-Connected Neural Networks with Reduced Parameterization for Predicting Histological Types of Lung Cancer from Somatic Mutations,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+OncoNetExplainer: Explainable Predictions of Cancer Types Based on Gene Expression Data,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+Prediction and interpretation of cancer survival using graph convolution neural networks,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0
+Using Feature Selection and Ensemble Algorithms for Sophisticated Pancreatic Cancer Diagnosis,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+Identifying common transcriptome signatures of cancer by interpreting deep learning models,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+Pathomic Fusion: An Integrated Framework for Fusing Histopathology and Genomic Features for Cancer Diagnosis and Prognosis,1,0,0,0,0,0,0,1,0,0,0,0,1,0,0,1,0,0,0
+Principled feature attribution for unsupervised gene expression analysis,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1
+DeepMAPS: Single-cell biological network inference using heterogeneous graph transformer,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+Visualizing complex feature interactions and feature sharing in genomic deep neural networks,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+DeepCOMBI: explainable artificial intelligence for the analysis and discovery in genome-wide association studies,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+ECMarker: interpretable machine learning model identifies gene expression biomarkers predicting clinical outcomes and reveals molecular mechanisms of human disease in early stages,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+Differentially expressed genes prediction by multiple self-attention on epigenetics data,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Multi-Omic Graph Transformers for Cancer Classification and Interpretation,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0
+Integration of multiomics data with graph convolutional networks to identify new cancer genes and their associated molecular mechanisms,1,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0
+Network-guided supervised learning on gene expression using a graph convolutional neural network,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+Multi-level attention graph neural network based on co-expression gene modules for disease diagnosis and prognosis,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+Transformer for Gene Expression Modeling (T-GEM): An Interpretable Deep Learning Model for Gene Expression-Based Phenotype Predictions,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+Single-cell gene regulatory network prediction by explainable AI,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Risk stratification and pathway analysis based on graph neural network and interpretable algorithm,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+An intrinsically interpretable neural network architecture for sequence to function learning,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+A pan-tissue DNA-methylation epigenetic clock based on deep learning,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+An explainable AI-driven biomarker discovery framework for Non-Small Cell Lung Cancer classification,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+An Explainable Deep Network Framework with Case-based Reasoning Strategies for Survival Analysis in Cancer,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 "BioDecoder: A miRNA Bio-interpretable Neural Network Model for
-Noninvasive Diagnosis of Breast Cancer",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+Noninvasive Diagnosis of Breast Cancer",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
 "Classification of Alzheimer’s disease using robust TabNet neural
-networks on genetic data",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+networks on genetic data",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
 "CustOmics: A versatile deep-learning based
-strategy for multi-omics integration",1,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Explainable Multilayer Graph Neural Network for Cancer Gene Prediction,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+strategy for multi-omics integration",1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+Explainable Multilayer Graph Neural Network for Cancer Gene Prediction,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
 "Transformer-based deep learning integrates multi-omic data with
-cancer pathways",0,0,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Discovering the Mechanism of Action of Drugs with a Novel Sparse Explainable Network,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+cancer pathways",1,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0
+Discovering the Mechanism of Action of Drugs with a Novel Sparse Explainable Network,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,1,0,0,0
 "DeepClassPathway: Molecular pathway aware
-classification using explainable deep learning",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+classification using explainable deep learning",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
 "Single-cell multi-omic topic embedding reveals
 cell-type-specific and COVID-19 severity-related
-immune signatures",0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+immune signatures",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1
 "Biologically informed variational autoencoders allow predictive
-modeling of genetic and drug induced perturbations",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
-Interpretable meta-learning of multi-omics data for survival analysis and pathway enrichment,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
-iDNA-ABF: multi-scale deep biological language learning model for the interpretable prediction of DNA methylations,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
-Improving explainability of deep neural network-based electrocardiogram interpretation using variational auto-encoders,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
-SUPREME: multiomics data integration using graph convolutional networks,1,0,1,0,0,0,1,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-siVAE: interpretable deep generative models for single-cell transcriptomes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
-MCluster-VAEs: An end-to-end variational deep learning-based clustering method for subtype discovery using multi-omics data,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Explainable Machine Learning to Identify Patient-specific Biomarkers for Lung Cancer,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
-Using model explanations to guide deep learning models towards consistent explanations for EHR data,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
-Interpretable Deep Learning for Improving Cancer Patient Survival Based on Personal Transcriptomes,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
-Transformer for one stop interpretable cell type annotation,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
-Structure Primed Embedding on the Transcription Factor Manifold Enables Transparent Model Architectures for Gene Regulatory Network and Latent Activity Inference,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+modeling of genetic and drug induced perturbations",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Interpretable meta-learning of multi-omics data for survival analysis and pathway enrichment,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+iDNA-ABF: multi-scale deep biological language learning model for the interpretable prediction of DNA methylations,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Improving explainability of deep neural network-based electrocardiogram interpretation using variational auto-encoders,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+SUPREME: multiomics data integration using graph convolutional networks,1,0,0,1,0,1,0,0,0,0,1,0,1,1,0,0,0,0,0
+siVAE: interpretable deep generative models for single-cell transcriptomes,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+MCluster-VAEs: An end-to-end variational deep learning-based clustering method for subtype discovery using multi-omics data,0,0,1,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0
+Explainable Machine Learning to Identify Patient-specific Biomarkers for Lung Cancer,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+Using model explanations to guide deep learning models towards consistent explanations for EHR data,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+Interpretable Deep Learning for Improving Cancer Patient Survival Based on Personal Transcriptomes,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0
+Transformer for one stop interpretable cell type annotation,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1
+Structure Primed Embedding on the Transcription Factor Manifold Enables Transparent Model Architectures for Gene Regulatory Network and Latent Activity Inference,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,1
