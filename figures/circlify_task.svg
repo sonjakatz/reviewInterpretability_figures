@@ -6,7 +6,7 @@
   <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <cc:Work>
     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:date>2024-02-13T15:42:44.518777</dc:date>
+    <dc:date>2024-02-16T13:04:59.063506</dc:date>
     <dc:format>image/svg+xml</dc:format>
     <dc:creator>
      <cc:Agent>
@@ -40,7 +40,7 @@ C 35.108377 410.759453 16.2 456.408314 16.2 504
 C 16.2 551.591686 35.108377 597.240547 68.760782 630.892952 
 C 102.413186 664.545356 148.062047 683.453733 195.653733 683.453733 
 z
-" clip-path="url(#p7acbbc7ef6)" style="fill: #add8e6; opacity: 0.5; stroke: #add8e6; stroke-width: 3; stroke-linejoin: miter"/>
+" clip-path="url(#pa1341623e2)" style="fill: #add8e6; opacity: 0.5; stroke: #add8e6; stroke-width: 3; stroke-linejoin: miter"/>
    </g>
    <g id="patch_3">
     <path d="M 683.453733 812.346267 
@@ -53,7 +53,7 @@ C 407.596774 343.789487 375.107466 422.225614 375.107466 504
 C 375.107466 585.774386 407.596774 664.210513 465.419997 722.033736 
 C 523.24322 779.856959 601.679347 812.346267 683.453733 812.346267 
 z
-" clip-path="url(#p7acbbc7ef6)" style="fill: #add8e6; opacity: 0.5; stroke: #add8e6; stroke-width: 3; stroke-linejoin: miter"/>
+" clip-path="url(#pa1341623e2)" style="fill: #add8e6; opacity: 0.5; stroke: #add8e6; stroke-width: 3; stroke-linejoin: miter"/>
    </g>
    <g id="patch_4">
     <path d="M 501.363988 630.256522 
@@ -66,7 +66,7 @@ C 388.41065 438.399653 375.107466 470.516379 375.107466 504
 C 375.107466 537.483621 388.41065 569.600347 412.087145 593.276843 
 C 435.763641 616.953338 467.880367 630.256522 501.363988 630.256522 
 z
-" clip-path="url(#p7acbbc7ef6)" style="fill: #69b3a2; opacity: 0.9; stroke: #69b3a2; stroke-width: 3; stroke-linejoin: miter"/>
+" clip-path="url(#pa1341623e2)" style="fill: #69b3a2; opacity: 0.9; stroke: #69b3a2; stroke-width: 3; stroke-linejoin: miter"/>
    </g>
    <g id="patch_5">
     <path d="M 809.710255 686.089745 
@@ -79,7 +79,7 @@ C 646.806634 409.389834 627.62051 455.709235 627.62051 504
 C 627.62051 552.290765 646.806634 598.610166 680.953361 632.756894 
 C 715.100089 666.903621 761.41949 686.089745 809.710255 686.089745 
 z
-" clip-path="url(#p7acbbc7ef6)" style="fill: #69b3a2; opacity: 0.9; stroke: #69b3a2; stroke-width: 3; stroke-linejoin: miter"/>
+" clip-path="url(#pa1341623e2)" style="fill: #69b3a2; opacity: 0.9; stroke: #69b3a2; stroke-width: 3; stroke-linejoin: miter"/>
    </g>
    <g id="text_1">
     <!-- unsupervised -->
@@ -513,7 +513,7 @@ z
   </g>
  </g>
  <defs>
-  <clipPath id="p7acbbc7ef6">
+  <clipPath id="pa1341623e2">
    <rect x="16.2" y="16.2" width="975.6" height="975.6"/>
   </clipPath>
  </defs>
